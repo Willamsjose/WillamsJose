@@ -50,6 +50,8 @@ Atualmente, atuo como **Analista SAP SD Jr. na Accenture**, unindo minha maturid
 *   **Graduação:** Análise e Desenvolvimento de Sistemas — Estácio
 *   **Certificações & Cursos:** 
     *   AWS re/Start Graduate
+    *   AWS Certified Cloud Practitioner
+    *   AWS Certified Developer - Associate 
     *   AI for Business Leaders (EDJ)
     *   CCSP 2022: Identity & Access Management Solutions
 
