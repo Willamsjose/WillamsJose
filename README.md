@@ -1,4 +1,4 @@
-<h0 align="center">Olá, eu sou o Willams José 👋</h0>
+<h1 align="center">Olá, eu sou o Willams José 👋</h1>
 
 <p align="center">
   <b>Analista SAP SD Jr. na Accenture | Especialista em Supply Chain & Operações | Cloud AWS & Ciência de Dados</b>
@@ -26,7 +26,7 @@ Atualmente, atuo como **Analista SAP SD Jr. na Accenture**, unindo minha maturid
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **ERP & Negócios** | `SAP SD`], `Estrutura de Vendas`, `Dados Mestres`, `Estratégia de Preço` |
+| **ERP & Negócios** | `SAP SD`, `Estrutura de Vendas`, `Dados Mestres`, `Estratégia de Preço` |
 | **Cloud Computing** | `AWS (Cloud Practitioner / AWS re/Start Graduate)` |
 | **Dados & BI** | `Power BI`, `Business Intelligence`, `Big Data & Analytics`, `Dashboards & KPIs` |
 | **Desenvolvimento & Automação** | `Python`, `SQL`, `HTML` |
@@ -45,7 +45,7 @@ Atualmente, atuo como **Analista SAP SD Jr. na Accenture**, unindo minha maturid
 
 ### 🎓 Formação Acadêmica & Certificações
 
-*   **MBA:**Custo operacional e Logística empresarial — Universidade Pitágoras Unopar Anhanguera
+*   **Pós-graduação / MBA:** MBA em Gestão Operacional e Logística Empresarial — Universidade Pitágoras Unopar Anhanguera
 *   **Pós-graduação Lato Sensu:** Business Intelligence, Big Data e Analytics (Ciência de Dados) — Universidade Pitágoras Unopar Anhanguera
 *   **Graduação:** Análise e Desenvolvimento de Sistemas — Estácio
 *   **Certificações & Cursos:** 
