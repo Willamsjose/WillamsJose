@@ -14,11 +14,11 @@
 
 ### 🚀 Sobre Mim
 
-Sou um profissional apaixonado por **transformar dados em decisões estratégicas** e otimizar infraestruturas através da **Computação em Nuvem (AWS)**[cite: 1]. 
+Sou um profissional apaixonado por **transformar dados em decisões estratégicas** e otimizar infraestruturas através da **Computação em Nuvem (AWS)**. 
 
-Minha trajetória é marcada por **mais de duas décadas de experiência na liderança de operações de alta complexidade** em grandes indústrias (como Marelli e Alcoa)[cite: 1, 2, 3]. Essa bagagem me proporciona um diferencial único na tecnologia: **eu entendo a dor do negócio**, sabendo exatamente como aplicar análise de dados, automação e sistemas corporativos para reduzir custos, mitigar riscos e acelerar processos operacionais[cite: 1].
+Minha trajetória é marcada por **mais de duas décadas de experiência na liderança de operações de alta complexidade** em grandes indústrias (como Marelli e Alcoa). Essa bagagem me proporciona um diferencial único na tecnologia: **eu entendo a dor do negócio**, sabendo exatamente como aplicar análise de dados, automação e sistemas corporativos para reduzir custos, mitigar riscos e acelerar processos operacionais.
 
-Atualmente, atuo como **Analista SAP SD Jr. na Accenture**, unindo minha maturidade de gestão operacional com soluções tecnológicas inovadoras[cite: 1, 2].
+Atualmente, atuo como **Analista SAP SD Jr. na Accenture**, unindo minha maturidade de gestão operacional com soluções tecnológicas inovadoras.
 
 ---
 
@@ -26,31 +26,32 @@ Atualmente, atuo como **Analista SAP SD Jr. na Accenture**, unindo minha maturid
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **ERP & Negócios** | `SAP SD`[cite: 1], `Estrutura de Vendas`[cite: 1], `Dados Mestres`[cite: 1], `Estratégia de Preço`[cite: 1] |
-| **Cloud Computing** | `AWS (Cloud Practitioner / AWS re/Start Graduate)`[cite: 1] |
-| **Dados & BI** | `Power BI`, `Business Intelligence`, `Big Data & Analytics`, `Dashboards & KPIs`[cite: 1] |
-| **Desenvolvimento & Automação** | `Python`, `SQL`, `HTML`[cite: 1] |
+| **ERP & Negócios** | `SAP SD`], `Estrutura de Vendas`, `Dados Mestres`, `Estratégia de Preço` |
+| **Cloud Computing** | `AWS (Cloud Practitioner / AWS re/Start Graduate)` |
+| **Dados & BI** | `Power BI`, `Business Intelligence`, `Big Data & Analytics`, `Dashboards & KPIs` |
+| **Desenvolvimento & Automação** | `Python`, `SQL`, `HTML` |
 
 ---
 
 ### 💼 Experiência Profissional
 
-*   **Accenture Brasil** — Analista SAP SD Jr. *(Outubro 2026 – Presente)*[cite: 1]
-*   **Escola da Nuvem** — Mentor Técnico Voluntário *(Dezembro 2025 – Outubro 2026)*[cite: 2]
-*   **Marelli** — Logística *(Outubro 2021 – Outubro 2026)* | Foco em acuracidade de inventário, melhoria contínua de fluxo logístico e monitoramento em tempo real[cite: 2].
-*   **CMC Cimentos** — Coordenador de Logística *(Abril 2017 – Setembro 2017)* | Gestão baseada em dados (*Data-Driven*), otimização de frotas e redução de custos operacionais[cite: 2].
-*   **Alcoa Alumínio S/A** — Operador Multifunção *(Fevereiro 2002 – Junho 2016)* | Suporte analítico e operacional em ambiente industrial de alta complexidade[cite: 2, 3].
+*   **Accenture Brasil** — Analista SAP SD Jr. *(Outubro 2026 – Presente)*
+*   **Escola da Nuvem** — Mentor Técnico Voluntário *(Dezembro 2025 – Outubro 2026)*
+*   **Marelli** — Logística *(Outubro 2021 – Outubro 2026)* | Foco em acuracidade de inventário, melhoria contínua de fluxo logístico e monitoramento em tempo real.
+*   **CMC Cimentos** — Coordenador de Logística *(Abril 2017 – Setembro 2017)* | Gestão baseada em dados (*Data-Driven*), otimização de frotas e redução de custos operacionais.
+*   **Alcoa Alumínio S/A** — Operador Multifunção *(Fevereiro 2002 – Junho 2016)* | Suporte analítico e operacional em ambiente industrial de alta complexidade.
 
 ---
 
 ### 🎓 Formação Acadêmica & Certificações
 
-*   **Pós-graduação Lato Sensu:** Business Intelligence, Big Data e Analytics (Ciência de Dados) — Universidade Pitágoras Unopar Anhanguera[cite: 3]
-*   **Graduação:** Análise e Desenvolvimento de Sistemas — Estácio[cite: 3]
+*   **MBA:**Custo operacional e Logística empresarial — Universidade Pitágoras Unopar Anhanguera
+*   **Pós-graduação Lato Sensu:** Business Intelligence, Big Data e Analytics (Ciência de Dados) — Universidade Pitágoras Unopar Anhanguera
+*   **Graduação:** Análise e Desenvolvimento de Sistemas — Estácio
 *   **Certificações & Cursos:** 
-    *   AWS re/Start Graduate[cite: 1]
-    *   AI for Business Leaders (EDJ)[cite: 1]
-    *   CCSP 2022: Identity & Access Management Solutions[cite: 1]
+    *   AWS re/Start Graduate
+    *   AI for Business Leaders (EDJ)
+    *   CCSP 2022: Identity & Access Management Solutions
 
 ---
 
